@@ -12,4 +12,4 @@ jobs:
     runs_on: ubuntu-latest
     steps:
       - name: Test
-        run: echo "hello!"
+        run: echo "hello world"
