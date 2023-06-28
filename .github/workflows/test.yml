@@ -9,7 +9,7 @@ on:
 jobs:
   test:
     name: "just echo something"
-    runs_on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Test
         run: echo "hello world"
